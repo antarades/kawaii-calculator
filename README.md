@@ -55,7 +55,7 @@ The root(n,x) function supports arbitrary root calculations (∛x is just root(3
 ---
 
 ## 📃 License
-This project is for academic purposes under fair use. For commercial or extended use, contact the project creator.
+MIT License. Free to use and modify.
 
 ---
 
