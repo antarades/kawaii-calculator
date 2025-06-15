@@ -3,6 +3,7 @@
 A compact, stylish, and responsive scientific calculator built using Streamlit.
 This project blends functionality with aesthetic design — inspired by kawaii UI themes — and supports both basic and advanced mathematical operations.
 Check out the live project [here](https://kawaii-calculator-ksvvrvb3sfmbpjdlnkguwa.streamlit.app/) !
+
 ---
 
 ## Features
